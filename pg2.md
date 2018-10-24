@@ -11,6 +11,14 @@ Jekyll Docs Theme is provided as a theme for writing documentation for your proj
 
 This theme is still in development but is kept fairly stable; just note, there are a lot things yet to come.
 
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+    alert("I am an alert box!");
+}
+</script>
+
 # Installation
 
 ## Remote Theme
