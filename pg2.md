@@ -11,11 +11,12 @@ Jekyll Docs Theme is provided as a theme for writing documentation for your proj
 
 This theme is still in development but is kept fairly stable; just note, there are a lot things yet to come.
 
-<button onclick="myFunction()">Try it</button>
+<button onclick="myFunction()">Try its</button>
 
 <script>
-    var el = document.getElementsByClassName("li.active");
-    el.style.color = "red";
+   function myFunction() {
+   document.getElementById("pggg2adjjjjjjjh").style.color = "Green";
+    }
 </script>
 
 
