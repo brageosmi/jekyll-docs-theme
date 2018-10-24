@@ -3,7 +3,7 @@ layout: page
 homepage: true
 ---
 
-# PG2
+# Pggg2adJjjJjJj💉💉
 
 > This is a [Jekyll theme](https://github.com/allejo/jekyll-docs-theme) based on [mistic100's modification](https://github.com/mistic100/jekyll-bootstrap-doc) of the official Bootstrap documentation from a few years back.
 
