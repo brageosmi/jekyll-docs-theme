@@ -3,7 +3,7 @@ layout: page
 homepage: true
 ---
 
-# Pggg2adJjjJjJj💉💉
+# Pggg2adJjjJjJjh💉💉
 
 > This is a [Jekyll theme](https://github.com/allejo/jekyll-docs-theme) based on [mistic100's modification](https://github.com/mistic100/jekyll-bootstrap-doc) of the official Bootstrap documentation from a few years back.
 
@@ -14,10 +14,8 @@ This theme is still in development but is kept fairly stable; just note, there a
 <button onclick="myFunction()">Try it</button>
 
 <script>
-function myFunction() {
-    var el = document.getElementsByClassName("active");
+    var el = document.getElementsByClassName("li.active");
     el.style.color = "red";
-}
 </script>
 
 
