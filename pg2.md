@@ -15,9 +15,10 @@ This theme is still in development but is kept fairly stable; just note, there a
 
 <script>
 function myFunction() {
-    alert("I am an alert box!");
+    document.getElementById("bs-docs-nav").style.fontFamily = "Times";
 }
 </script>
+
 
 # Installation
 
