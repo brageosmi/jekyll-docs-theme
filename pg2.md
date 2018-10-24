@@ -15,7 +15,8 @@ This theme is still in development but is kept fairly stable; just note, there a
 
 <script>
 function myFunction() {
-    document.getElementById("navbar-nav").style.fontFamily = "Times";
+    var el = document.getElementsByClassName("active");
+    el.style.color = "red";
 }
 </script>
 
