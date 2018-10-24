@@ -15,7 +15,7 @@ This theme is still in development but is kept fairly stable; just note, there a
 
 <script>
 function myFunction() {
-    document.getElementById("bs-docs-nav").style.fontFamily = "Times";
+    document.getElementById("navbar-nav").style.fontFamily = "Times";
 }
 </script>
 
