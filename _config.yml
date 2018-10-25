@@ -1,7 +1,7 @@
 # name of the software
-name: Jekyll Docs Themez2d
+name: Jekyll Docs Themeb
 project:
-    version: 0.1.5
+    version: 0.1.4
     download_url: https://github.com/allejo/jekyll-docs-theme/releases
 
 license:
