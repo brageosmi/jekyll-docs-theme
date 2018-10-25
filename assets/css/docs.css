@@ -483,7 +483,7 @@ body {
     font-weight: 700;
     color: #ff0000;
     background-color: transparent;
-    border-left: 2px solid #ffcc00
+    border-left: 2px solid green;
 }
 
 .bs-docs-sidebar .nav .nav {
