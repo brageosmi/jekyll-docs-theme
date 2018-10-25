@@ -2,7 +2,7 @@
 name: Jekyll Docs Themefghi
 
 project:
-    version: 0.1.0
+    version: 0.1.5
     download_url: https://github.com/allejo/jekyll-docs-theme/releases
 
 license:
@@ -36,7 +36,7 @@ social:
         repo: jekyll-docs-theme
     twitter:
         enabled: true
-        via:
+        via: test
         hash: test
         account: test
     facebook:
