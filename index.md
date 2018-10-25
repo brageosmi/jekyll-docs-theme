@@ -176,3 +176,5 @@ social:
     enabled: false
     profileUrl:
 ```
+
+<div id="footer">Footer - Just scroll...</div>
