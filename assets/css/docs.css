@@ -10,7 +10,8 @@ body {
 }
 
 .container {
-    color: #ffcc00;
+    background-color: #303030;
+    color: #ffffff;
 }
 
 .table code {
