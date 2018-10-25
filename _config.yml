@@ -35,10 +35,10 @@ social:
         user: allejo
         repo: jekyll-docs-theme
     twitter:
-        enabled: false
+        enabled: true
         via:
-        hash:
-        account:
+        hash: test
+        account: test
     facebook:
         enabled: false
         profileUrl:
