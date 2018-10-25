@@ -9,6 +9,10 @@ body {
     position: relative
 }
 
+.container {
+    color: #ffcc00;
+}
+
 .table code {
     font-size: 13px;
     font-weight: 400
