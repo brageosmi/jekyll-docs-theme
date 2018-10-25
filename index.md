@@ -5,7 +5,7 @@ homepage: true
 
 # Overview
 
-> This is a [Jekyll theme](https://github.com/allejo/jekyll-docs-theme) based on [mistic100's modification](https://github.com/mistic100/jekyll-bootstrap-doc) of the official Bootstrap documentation from a few years back.
+> This is an [Jekyll theme](https://github.com/allejo/jekyll-docs-theme) based on [mistic100's modification](https://github.com/mistic100/jekyll-bootstrap-doc) of the official Bootstrap documentation from a few years back.
 
 Jekyll Docs Theme is provided as a theme for writing documentation for your projects instead of having a single large README file or several markdown files stored in a not so user-friendly manner.
 
@@ -177,4 +177,15 @@ social:
     profileUrl:
 ```
 
-<div id="footer">Footer - Just scroll...</div>
+<div id="footer" style="    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #0070FF;
+    line-height: 2;
+    text-align: center;
+    color: #042E64;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 0 1px 0 #84BAFF;
+    box-shadow: 0 0 15px #00214B">Footer - Just scroll...</div>
