@@ -6,12 +6,8 @@
  */
 
 body {
-    position: relative
-}
-
-.container {
+    position: relative;
     background-color: #303030;
-    color: #ffffff;
 }
 
 .table code {
